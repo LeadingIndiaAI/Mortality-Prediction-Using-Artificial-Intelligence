@@ -26,6 +26,9 @@ Which leads to an imbalanced classification problem. In the above graphic, 0 mea
 The task is to create a model able to learns from the data and make predictions on unseen data. This is called supervised learning, because the algorithm learns from labeled data. Each data (each patient) has a label telling if he died or not during his stay at the hospital. It is possible to learn a link between data and labels and use it to make predictions: automatically label unseen data.
 
 Following two graph shows our accuracy on test data:
-![Accuracy_test](Accuracy_test.png)
 
-![Accuracy_bar_graph](Accuracy_bar_graph.png)
+![Accuracy_test]
+(https://github.com/prakhar1613072/Mortality-Prediction/blob/master/Accuracy_bar_graph.PNG)
+
+![Accuracy_bar_graph]
+(https://github.com/prakhar1613072/Mortality-Prediction/blob/master/Accuracy_test.PNG)
