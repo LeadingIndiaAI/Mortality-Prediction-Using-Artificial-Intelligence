@@ -1,6 +1,5 @@
 # Mortality-Prediction
 **To be, or not to be?
-
 Mortality Prediction Challenge**
 
 The main question of this challenge is: How to predict the survival of a patient given his or her medical record? More specifically, you will have to predict whether or not the patients died during their stay at the hospital.
@@ -26,7 +25,7 @@ Which leads to an imbalanced classification problem. In the above graphic, 0 mea
 
 The task is to create a model able to learns from the data and make predictions on unseen data. This is called supervised learning, because the algorithm learns from labeled data. Each data (each patient) has a label telling if he died or not during his stay at the hospital. It is possible to learn a link between data and labels and use it to make predictions: automatically label unseen data.
 
-**Link of Datasets **
+**Link_of_Datasets **
 
 https://competitions.codalab.org/competitions/19365#learn_the_details-get_starting_kit
 
@@ -38,6 +37,6 @@ Following two graph shows our accuracy on test data:
 
 ![Accuracy_bar_graph](https://github.com/prakhar1613072/Mortality-Prediction/blob/master/Accuracy_test.PNG)
 
-**Flow Chart **
+**Flow_Chart **
 
 ![Flow Chart](https://github.com/prakhar1613072/Mortality-Prediction/blob/master/FlowChart.PNG)
