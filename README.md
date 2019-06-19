@@ -27,8 +27,6 @@ The task is to create a model able to learns from the data and make predictions 
 
 Following two graph shows our accuracy on test data:
 
-![Accuracy_test]
-(https://github.com/prakhar1613072/Mortality-Prediction/blob/master/Accuracy_bar_graph.PNG)
+![Accuracy_test](https://github.com/prakhar1613072/Mortality-Prediction/blob/master/Accuracy_bar_graph.PNG)
 
-![Accuracy_bar_graph]
-(https://github.com/prakhar1613072/Mortality-Prediction/blob/master/Accuracy_test.PNG)
+![Accuracy_bar_graph](https://github.com/prakhar1613072/Mortality-Prediction/blob/master/Accuracy_test.PNG)
