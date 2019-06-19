@@ -27,4 +27,5 @@ The task is to create a model able to learns from the data and make predictions 
 
 Following two graph shows our accuracy on test data:
 ![Accuracy_test](Accuracy_test.png)
+
 ![Accuracy_bar_graph](Accuracy_bar_graph.png)
